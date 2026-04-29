@@ -124,7 +124,7 @@ open index.html
 If you'd like to collaborate or discuss opportunities:
 
 * GitHub: https://github.com/manas-2212
-* Email: [your email here]
+* Email: manas.selukar2024@nst.rishihood.edu.in
 
 ---
 
